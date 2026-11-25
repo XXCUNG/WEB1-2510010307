@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nama": "Kain Motif Gigi Haruan",
+    "kategori": "kain",
+    "harga": 185000,
+    "gambar": "img/gigi-haruan.svg",
+    "deskripsi": "Kain katun 2 meter bermotif zig-zag menyerupai gigi ikan haruan."
+  },
+  {
+    "id": 2,
+    "nama": "Kain Motif Kambang Kacang",
+    "kategori": "kain",
+    "harga": 175000,
+    "gambar": "img/kambang-kacang.svg",
+    "deskripsi": "Motif bunga kacang yang melambangkan keakraban dan kerukunan."
+  },
+  {
+    "id": 3,
+    "nama": "Selendang Iris Pudak",
+    "kategori": "aksesoris",
+    "harga": 120000,
+    "gambar": "img/iris-pudak.svg",
+    "deskripsi": "Selendang ringan bermotif irisan daun pudak (pandan)."
+  },
+    {
+    "id": 4,
+    "nama": "Kemeja Bayam Raja",
+    "kategori": "busana",
+    "harga": 250000,
+    "gambar": "img/bayam-raja.svg",
+    "deskripsi": "Kemeja sasirangan bermotif daun bayam raja dengan warna hijau tua."
+  },
+  {
+    "id": 5,
+    "nama": "Tas Naga Balimbur",
+    "kategori": "aksesoris",
+    "harga": 165000,
+    "gambar": "img/naga-balimbur.svg",
+    "deskripsi": "Tas kain bermotif lengkung bersisik naga balimbur dengan warna cokelat tua."
+  },
+  {
+    "id": 6,
+    "nama": "Gamis Ombak Sinapur Karang",
+    "kategori": "busana",
+    "harga": 320000,
+    "gambar": "img/ombak-sinapur-karang.svg",
+    "deskripsi": "Gamis sasirangan bermotif gelombang ombak sinapur karang dengan warna biru laut."
+  },
+    {
+    "id": 7,
+    "nama": "Kain Motif Bintang Bahambur",
+    "kategori": "kain",
+    "harga": 190000,
+    "gambar": "img/bintang-bahambur.svg",
+    "deskripsi": "Kain katun 2 meter bermotif bintang bertebaran di atas warna biru tua."
+  },
+  {
+    "id": 8,
+    "nama": "Kain Motif Daun Katu",
+    "kategori": "kain",
+    "harga": 180000,
+    "gambar": "img/daun-katu.svg",
+    "deskripsi": "Kain katun 2 meter bermotif daun katu berwarna merah muda di atas biru keabuan."
+  }
+  
+]
