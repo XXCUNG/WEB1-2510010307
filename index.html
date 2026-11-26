@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
+  <script src="js/jadwal-shalat.js" defer></script> 
   <link rel="stylesheet" href="css/style.css">
   <script src="js/katalog.js" defer></script>
   <meta charset="UTF-8">
@@ -21,6 +22,7 @@
     </ul> 
   </nav> 
 </header>
+
 <main>
   <!-- ========== HERO ========== --> 
   <section class="hero" id="beranda"> 
@@ -91,7 +93,16 @@ aria-pressed="false">Aksesoris</button>
         </tr> 
       </tbody> 
     </table> 
-  </section> 
+  </section>
+  <!-- ========== JADWAL SALAT (data dari API) ========== -->
+<section class="bagian" id="jadwal">
+  <div class="jadwal-salat" id="jadwal-salat">
+    <h2>Jadwal Salat Banjarmasin Hari Ini</h2>
+    <p class="status" aria-live="polite">Memuat jadwal salat...</p>
+    <ul class="daftar-waktu" hidden></ul>
+    <p class="sumber">Sumber data: API MyQuran (jadwal Kemenag RI).</p>
+  </div>
+</section> 
 </main>
  <!-- ========== FOOTER ========== --> 
   <footer class="footer-situs"> 
